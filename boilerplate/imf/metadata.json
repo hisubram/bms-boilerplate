@@ -34,7 +34,7 @@
         "url": ".git",
         "appPath": "bms-hellotodo-strongloop"
     },
-    "docURL": "#cloudnative/index.html",
+    "docURL": "#services/mobile/index.html",
     "system_tags": [
         "ibm_created"
     ],
